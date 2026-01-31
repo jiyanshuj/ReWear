@@ -200,7 +200,6 @@ We welcome contributions from the community! Please feel free to:
 For questions, feedback, or inquiries about the project, feel free to reach out:
 - **Project Repository:** [GitHub - ReWear](https://github.com/your-repo/ReWear)
 - **Live Demo:** [ReWear on Vercel](https://re-wear-ten-iota.vercel.app/)
-- **Team Email:** contact@rewear-project.com
 
 ---
 
