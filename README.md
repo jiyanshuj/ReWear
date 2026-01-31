@@ -41,6 +41,12 @@ Develop **ReWear**, a web-based platform that enables users to exchange unused c
 
 ---
 
+## 🚀 Live Demo
+
+**[ReWear on Vercel](https://re-wear-ten-iota.vercel.app/)**
+
+---
+
 ## Team
 
 **Team name:** Binary Beasts
